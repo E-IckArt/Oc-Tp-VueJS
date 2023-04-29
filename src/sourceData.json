@@ -1,0 +1,34 @@
+{
+  "simpleMenu": [
+    {
+      "name": "Croissant",
+      "image": {
+        "source": "/images/croissant.jpg",
+        "alt": "Un croissant"
+      },
+      "inStock": true,
+      "price": 2.99,
+      "quantity": 1
+    },
+    {
+      "name": "Baguette de pain",
+      "image": {
+        "source": "/images/french-baguette.jpeg",
+        "alt": "Quatre baguettes de pain"
+      },
+      "inStock": true,
+      "price": 3.99,
+      "quantity": 1
+    },
+    {
+      "name": "Éclair",
+      "image": {
+        "source": "/images/eclair.jpg",
+        "alt": "Éclair au chocolat"
+      },
+      "inStock": false,
+      "price": 4.99,
+      "quantity": 1
+    }
+  ]
+}
